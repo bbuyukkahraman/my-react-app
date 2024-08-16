@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Bülent Büyükkahraman</h1>
-        <h2>Cybersecurity Director | CISO at Anadolu Grubu</h2>
+        <h2>Cybersecurity Director | CISO</h2>
 
         <section id="about">
           <h3>About</h3>
