@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Merhaba React!</h1>
+        <h1>Bulent Buyukkahraman</h1>
         <p>
           Bu basit bir React uygulamasıdır.
         </p>
