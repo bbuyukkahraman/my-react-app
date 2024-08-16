@@ -40,7 +40,7 @@ section {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background: white;
+  background: white; /* Arka plan rengi beyaz */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -59,7 +59,7 @@ h4 {
 
 h5 {
   font-size: 1.2em;
-  color: #555;
+  color: #555; /* Yazı rengi gri */
   margin: 5px 0;
 }
 
@@ -81,6 +81,7 @@ li {
   list-style-type: square;
 }
 
+/* Footer stili */
 footer {
   padding: 10px;
   background-color: #282c34;
