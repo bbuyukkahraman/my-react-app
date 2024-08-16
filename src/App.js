@@ -117,6 +117,7 @@ function App() {
         <section id="licenses">
           <h3>Licenses & Certifications</h3>
           <ul>
+            <li>Certified Information Systems Security Professional (CISSP)</li>
             <li>Certified Secure Software Lifecycle Professional (CSSLP)</li>
           </ul>
         </section>
